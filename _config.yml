@@ -27,6 +27,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yucelshiv
 github_username:  shivyucel
 
+header_pages:
+  - interests/index.markdown
+  - projects/index.markdown
+  - CV.markdown
+
 # Build settings
 theme: minima
 plugins:
@@ -51,3 +56,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
