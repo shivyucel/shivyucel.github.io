@@ -4,8 +4,11 @@
 # get about page in Here
 # {% assign about = site.pages | where: 'name','about.markdown' %}
 # {{about}}
-layout: home
+layout: default
 ---
+
+<br/><br/><br/><br/>
+
 ## My name is Shiv Yucel and I am a recent graduate of the Social Data Science MSc from the Oxford Internet Institute.
 
 
