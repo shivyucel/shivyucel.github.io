@@ -21,14 +21,14 @@
 title: Shiv Yucel
 email: yucelshiv@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a test change.
+ 
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: yucelshiv
+twitter_username: sgyucel
 github_username:  shivyucel
 
 header_pages:
-  - interests/index.markdown
+  #- interests/index.markdown
   - projects/index.markdown
   - CV.markdown
 
