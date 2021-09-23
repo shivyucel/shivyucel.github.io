@@ -5,12 +5,12 @@ title:  "COVID-19 and Race"
 date:   2021-03-10 20:54:34 -0400
 category: "projects"
 excerpt_separator: <!--more-->
-
+use_math: true
 ---
 An exploratory analysis of race and COVID-19 health burdens in the United States.
 <!--more-->
 
-Code can be found [in Part II of this notebook](https://github.com/shivyucel/race_covid_exploration/blob/main/1053722_Fundamentals_of_Social_Data_Science.ipynb).
+Code can be found in [Part II of this notebook](https://github.com/shivyucel/race_covid_exploration/blob/main/1053722_Fundamentals_of_Social_Data_Science.ipynb).
 
 ## Background
 In spite of a general decline in morbidity and mortality over the last century in the United States, the 'black health disadvantage' has been a well-documented phenomenon, and a cause for great concern for scientists and public health officials (Farmer and Ferraro 2005). COVID-19 is no exception to this trend, with state-level research finding that blacks contract and die of COVID-19 at substantially higher rates than other racial groups (Anyane-Yeboa, Sato, and Sakuraba 2020). This existing inequality risks being widened by the underrepresentation of blacks in research relative to their disease burden (Borno, Zhang, and Gomez 2020). Prior studies on the causes for this disparity have been focused on socio-economic status (SES), and have found that SES differences alone fail to explain the racial health disparity (Do et al. 2008). Given this limitation, research has turned towards physical location and context, where environmental exposure, built environment, and social conditions in areas with predominantly black populations explain a large part of the discrepancy in health outcomes (Do et al. 2008). 
