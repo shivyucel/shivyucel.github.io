@@ -2,7 +2,7 @@
 layout: post
 # Uses this to overwrite filename contents 
 title:  "COVID-19 and Race"
-date:   2021-08-17 20:54:34 -0400
+date:   2021-03-10 20:54:34 -0400
 category: "projects"
 excerpt_separator: <!--more-->
 
@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 An exploratory analysis of race and COVID-19 health burdens in the United States.
 <!--more-->
 
-Code can be found [here](https://github.com/shivyucel/race_covid_exploration).
+Code can be found [in Part II of this notebook](https://github.com/shivyucel/race_covid_exploration/blob/main/1053722_Fundamentals_of_Social_Data_Science.ipynb).
 
 ## Background
 In spite of a general decline in morbidity and mortality over the last century in the United States, the 'black health disadvantage' has been a well-documented phenomenon, and a cause for great concern for scientists and public health officials (Farmer and Ferraro 2005). COVID-19 is no exception to this trend, with state-level research finding that blacks contract and die of COVID-19 at substantially higher rates than other racial groups (Anyane-Yeboa, Sato, and Sakuraba 2020). This existing inequality risks being widened by the underrepresentation of blacks in research relative to their disease burden (Borno, Zhang, and Gomez 2020). Prior studies on the causes for this disparity have been focused on socio-economic status (SES), and have found that SES differences alone fail to explain the racial health disparity (Do et al. 2008). Given this limitation, research has turned towards physical location and context, where environmental exposure, built environment, and social conditions in areas with predominantly black populations explain a large part of the discrepancy in health outcomes (Do et al. 2008). 
@@ -31,21 +31,21 @@ The data used in this analysis is from the United States Census Bureau API, spec
 
 ## Results
 # Population Density of Counties based on Race Ratios
-The boxplots in Fig.3A summarize the population densities of counties with a black to white ratio less than versus greater than the total county mean. Due to dramatically varying population densities across US counties, a log scale allows for a clearer side-by-side comparison. The boxplots in Fig.3B depict the amount of individuals 65 or older per capita based on the same grouping. From these visualizations we see that counties with a black-white ratio above the mean, labelled 'True', tend to have greater population densities, with a median of 64.5 individuals per square mile compared to 40. We additionally observe that counties with a black-white ratio above the mean tend to have fewer individuals aged 65 or older per capita, with a median of 0.15 compared to 0.17. Interpreting these results, we may expect that counties above the mean black-white ratio would tend to experience more cases per capita due to density, while the younger population may convey a degree of protection from COVID-19 deaths. <br/><br/>
+The boxplots in Fig.3A summarize the population densities of counties with a black to white ratio less than versus greater than the total country mean. Due to dramatically varying population densities across US counties, a log scale allows for a clearer side-by-side comparison. The boxplots in Fig.3B depict the amount of individuals 65 or older per capita based on the same grouping. From these visualizations we see that counties with a black-white ratio above the mean, labelled 'True', tend to have greater population densities, with a median of 64.5 individuals per square mile compared to 40. We additionally observe that counties with a black-white ratio above the mean tend to have fewer individuals aged 65 or older per capita, with a median of 0.15 compared to 0.17. Interpreting these results, we may expect that counties above the mean black-white ratio would tend to experience more cases per capita due to density, while the younger population may convey a degree of protection from COVID-19 deaths. <br/><br/>
 
 
-![image](/static/covidrace/pop_dens.png)
+![image](/static/projects/covidrace/pop_dens.png)
 
 
 # COVID-19 Cases and Deaths by Black and White Prevalence in County
 
 In Figure 4, we see two scatter plots representing each county's confirmed cases per capita, on a log scale, separated on the x-axis by their relative population percentage of black and white individuals, respectively. In each plot, the point 0 on the x-axis represents the mean percentage of the black and white population in each county, which is 0.088 in Figure 4A, and 0.766 in Figure 4B. Each integer on the x-axis represents the number of standard deviations each county lies from the mean race percentage. The logarithm of confirmed cases per capita shows that as the relative amount of black individuals in counties increases, there is a positive association with the log-scaled number of confirmed cases, in line with our hypothesis. The relationship is reversed when observing the white population percentages, with counties tending to experience less cases as the proportion of white individuals increases.
 
-![image](/static/covidrace/cases_by_race.png)
+![image](/static/projects/covidrace/cases_by_race.png)
 
 In Figure 5, we again observe two scatter plots showing the standardized percent of black and white populations in each county. Rather than log-scaled confirmed cases per capita as in Figure 4, the y-axis is the log-scaled deaths per capita from COVID-19 in each county. There appears to be an even stronger relation than in the former, with the log of deaths per capita increasing with the z-score of the black population in each county, conforming to the hypothesis. This relationship is reversed in the adjacent plot (Fig.5B), with log deaths per capita sharply decreasing as the standardized percentage of white individuals in a county increases.
 
-![image](/static/covidrace/deaths_by_race.png)
+![image](/static/projects/covidrace/deaths_by_race.png)
 
 The differences between the x-axes in both sets of side-by-side plots can be explained by observing the differences in absolute percentages of black and white individuals. The high concentration of counties in Fig.4A and Fig.5A on the left side of the plots is due to the high number of counties with 0% or slightly higher black population percentages. This phenomenon explains the right skewness of the scatterplot, as the percentage cannot go below zero, and these zero values pull the mean and standard deviation of black population percentages down. The opposite is true for the Fig.4B and Fig.5B. where the maximum z-score is 1.09 standard deviations above the mean (76.6%), which represents counties with 99.8% white populations. The lowest population percentage of white individuals Is 0.007%, which explains the large negative portion on the x-axis. To understand the influence of such extreme values, a z-score was calculated from the median during the creation of this study, which is more robust to outliers, with highly similar results. Due to the similarity of the two measures, the z-score was calculated using the mean, which is the more commonly applied method of standardization.
 
