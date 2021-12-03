@@ -9,8 +9,7 @@ layout: default
 
 <br/><br/><br/>
 
-
-![image](static/prof_pic.jpg){: .center-image, height="300px", width="150px"}
+<div style="text-align: center;"><img src="static/prof_pic.jpg" /></div>
 
 <br/>
 
