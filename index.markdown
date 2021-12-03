@@ -10,7 +10,7 @@ layout: default
 <br/><br/><br/><br/>
 
 
-![image](/Users/shivyucel/shivyucel/static/prof_pic.jpg){: style="float: left"}
+![image](static/prof_pic.jpg){: style="float: left"}
 
 #Hello! I am a data scientist who is interested in studying socio-spatial inequalities and human mobility. I completed my undergraduate studies at the University of Toronto in economics, and recently completed an MSc in Social Data Science from the University of Oxford.
 <br/>
