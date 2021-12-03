@@ -12,14 +12,3 @@ layout: default
 ## My name is Shiv Yucel and I am a recent graduate of the Social Data Science MSc from the Oxford Internet Institute.
 
 
-<ul>
-  {% for post in site.posts %}
-    {% if post.docurl %}
-      <li><a href="{{ site.baseurl }}{{ post.docurl }}">{{ post.title }}</a></li>
-    {% else %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-    {{ post.excerpt }}
-  {% endfor %}
-</ul>
-
