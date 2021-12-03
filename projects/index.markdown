@@ -10,7 +10,7 @@ weight: 2
 
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.categories.projects %}
     {% if post.docurl %}
       <li><a href="{{ site.baseurl }}{{ post.docurl }}">{{ post.title }}</a></li>
     {% else %}
