@@ -10,7 +10,7 @@ layout: default
 <br/><br/><br/>
 
 
-![image](static/prof_pic.jpg){: width="300px", .center-image, }
+![image](static/prof_pic.jpg){: .center-image, height="300px", width="150px"}
 
 <br/>
 
