@@ -9,7 +9,7 @@ layout: default
 
 <br/><br/><br/>
 
-<div style="text-align: center;"><img src="static/prof_pic.jpg" /></div>
+<div style="text-align: center;"><img src="static/prof_pic.jpg" width="350"  /></div>
 
 <br/>
 
