@@ -8,11 +8,11 @@ category: "projects"
 weight: 2
 ---
 <ul>
-  {% for post in site.posts %}
+  {% for post in projects.posts %}
     {% if post.docurl %}
-      <li><a href="{{ site.baseurl }}{{ post.docurl }}">{{ post.title }}</a></li>
+      <li><a href="{{ projects.baseurl }}{{ projects.docurl }}">{{ post.title }}</a></li>
     {% else %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ projects.baseurl }}{{ projects.url }}">{{ post.title }}</a></li>
     {% endif %}
     {{ post.excerpt }}
   {% endfor %}
