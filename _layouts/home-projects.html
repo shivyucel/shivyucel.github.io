@@ -13,13 +13,17 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       {%- if post.category=="projects" -%}
+      
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
+          
+        {% if post.docurl %}
+          <li><a href="{{ site.baseurl }}{{ post.docurl }}{:target='_blank'}">{{ post.title }}</a></li>
+        {% else %}
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
         </h3>
         <p>{{ post.excerpt }}</p>
         {%- if site.show_excerpts -%}
