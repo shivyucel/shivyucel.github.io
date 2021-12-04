@@ -4,5 +4,10 @@ layout: page
 permalink: /CV/
 
 ---
-you can [get the PDF]({{shivyucel.github.io}}/static/ML.pdf){:target="_blank"} directly.
+[Here is the PDF link to my 1-page resume.]({{shivyucel.github.io}}/static/04122021_resume.pdf){:target="_blank"} directly.
+
+|<br/>
+Last updated 04/12/2021.
+
+
 
