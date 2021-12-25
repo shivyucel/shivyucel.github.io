@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Toronto Transport Dashboard"
+title:  "Toronto Transport Dashboard (link)"
 docurl: static/dashboard.html
 
 category: "projects"
 
 ---
-Fragile Families Machine Learning Challenge -- <a href="https://github.com/shivyucel/Fragile_Families_ML_Challenge" target="_blank">code here</a> 
+A dashboard displaying the regions that can be reached within an hour from the Eaton Center by driving, public transport, biking, and walking.
