@@ -4,7 +4,7 @@ layout: page
 permalink: /CV/
 
 ---
-[PDF of one-page CV linked here.]({{shivyucel.github.io}}/static/04122021_resume.pdf){:target="_blank"}
+[PDF of one-page CV linked here.]({{shivyucel.github.io}}/static/23_12_2021.pdf){:target="_blank"}
 
 <br/>
 
