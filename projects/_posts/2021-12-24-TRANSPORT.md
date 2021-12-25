@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Toronto Transport Dashboard (link)"
-docurl: static/toronto_commuting_dashboard.html
+docurl: static/dashboard.html
 
 category: "projects"
 
