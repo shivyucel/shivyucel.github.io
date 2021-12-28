@@ -8,7 +8,7 @@ permalink: /CV/
 
 <br/>
 
-Last updated 04/12/2021.
+Last updated 20/12/2021.
 
 
 
