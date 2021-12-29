@@ -13,3 +13,11 @@
   {% endif %}
   <meta name="google-site-verification" content="QwTkrRNPbj_U8x0Ikp2hKuwh4cCO_dbhlS1Rt8LG5X8" />
 </head>
+
+<head> 
+  ...
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include google_analytics.html %}
+  {% endif %}
+  ...
+</head> 
