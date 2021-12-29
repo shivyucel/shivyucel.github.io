@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Canada Commuting Radius Dashboard (link)"
-docurl: static/dashboard.html
+title:  "Canada Commuting Radius Dashboard"
+#docurl: static/dashboard.html
 
 category: "projects"
 
 ---
 A dashboard displaying the regions that can be reached within an hour from major Canadian city centers by driving, public transport, biking, and walking.
+
+[Link to dashboard can be found here.]({{shivyucel.github.io}}/projects/static/dashboard.html){:target="_blank"}
+
+
