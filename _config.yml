@@ -33,6 +33,7 @@ github_username:  shivyucel
 
 header_pages:
   #- interests/index.markdown
+  - Publications.markdown
   - projects/index.markdown
   - CV.markdown
 
