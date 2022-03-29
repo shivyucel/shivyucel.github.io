@@ -35,7 +35,6 @@ header_pages:
   #- interests/index.markdown
   - projects/index.markdown
   - Publications.markdown
-  - CV.markdown
 
 # Build settings
 #remove minima theme as it is now regular theme
