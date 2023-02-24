@@ -6,8 +6,7 @@ permalink: /Publications/
 ---
 ## Articles
 
-**Yücel, S. G.**, Pereira, R. H., Peixoto, P. S., & Camargo, C. Q. (2022). [Impact of Network Centrality and Income on Slowing Infection Spread after Outbreaks](https://arxiv.org/abs/2202.03914). arXiv preprint arXiv:2202.03914. Under review.
-
+**Yücel, S.G.**, Pereira, R.H.M., Peixoto, P.S. & Camargo, C.Q. (2023). Impact of network centrality and income on slowing infection spread after outbreaks. <i>Applied Network Science</i>, <i>8</i>(16). https://doi.org/10.1007/s41109-023-00540-z
 
 <br/>
 
