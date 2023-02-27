@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Canada Commuting Radius Dashboard"
+title:  "Canada commuting radius dashboard"
 #docurl: static/dashboard.html
 
 category: "projects"
