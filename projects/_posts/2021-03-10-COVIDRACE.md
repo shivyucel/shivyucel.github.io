@@ -1,7 +1,7 @@
 ---
 layout: post
 # Uses this to overwrite filename contents 
-title:  "The Impact of County-Level Racial Composition on COVID-19 Cases and Deaths"
+title:  "The impact of county-level racial composition on COVID-19 cases and deaths"
 date:   2021-03-10 20:54:34 -0400
 category: "projects"
 excerpt_separator: <!--more-->
