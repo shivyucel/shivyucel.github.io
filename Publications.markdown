@@ -6,6 +6,7 @@ permalink: /Publications/
 ---
 ## Articles
 
+**Yucel, S. G.**, & Schwanen, T. (2024, May 21). Heatwave adaptation conditioned by everyday life: Analyzing interacting changes to daily activities during Pacific Northwest summers. https://doi.org/10.31235/osf.io/mn58e (submitted)
 
 **Yücel, S.G.**, Higgins, C.D., Gupta, K. & Palm, M. (2023). Access to Opioid Agonist Treatment During COVID-19 Public Transport Disruptions. <i>International Journal of Drug Policy</i>. <i>116</i>. [https://doi.org/10.1016/j.drugpo.2023.104032](https://doi.org/10.1016/j.drugpo.2023.104032){:target="_blank"}
 
