@@ -2,6 +2,8 @@
 layout: post
 # Uses this to overwrite filename contents 
 title:  "The impact of county-level racial composition on COVID-19 cases and deaths"
+image: "/static/projects/covidrace/plot.png"
+
 date:   2021-03-10 20:54:34 -0400
 category: "projects"
 excerpt_separator: <!--more-->

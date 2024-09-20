@@ -2,4 +2,14 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+
 @import "minima";
+
+
+
+.project-image {
+    width: 300px; /* Adjust the size as needed */
+    height: auto;
+    margin-right: 1000px; /* Space between image and title */
+    vertical-align: left; /* Align image with text */
+  }
