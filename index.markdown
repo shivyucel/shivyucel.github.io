@@ -13,7 +13,7 @@ layout: default
 
 <br/>
 
-#### Hello! I am currently a DPhil candidate at the School of Geography and the Environment, University of Oxford. I am interested in climate change, socio-spatial inequalities,  human mobility, and data science. My current research focuses on how people adapt their everyday lives to heatwaves using cell phone, climate, and socio-economic data. I completed my undergraduate studies at the University of Toronto in economics, and finished an MSc in Social Data Science from the University of Oxford. On this website you can find some of my recent projects, publications, and my CV -- have a browse and reach out if you would like to chat!
+#### Hello! I am currently a DPhil candidate at the School of Geography and the Environment, University of Oxford. I am interested in climate change, socio-spatial inequalities,  human mobility, and data science. My current research focuses on how people adapt their everyday lives to heatwaves using cell phone mobility, climate, and socio-economic data. I completed my undergraduate studies at the University of Toronto in economics, and finished an MSc in Social Data Science from the University of Oxford. On this website you can find some of my recent projects, publications, and my CV -- have a browse and reach out if you would like to chat!
 
 
 
