@@ -5,6 +5,8 @@ permalink: /Publications/
 
 ---
 ## Articles
+**Yücel, S. G.**, Liang, Y., Wang, D. & Schwanen, T. (2025). Everyday adaptation to summer heatwaves: A global perspective. [https://doi.org/10.31235/osf.io/mn58e](https://doi.org/10.31235/osf.io/97kxh){:target="_blank"} (submitted)
+
 
 **Yücel, S. G.**, & Schwanen, T. (2024). Heatwave adaptation conditioned by everyday life: Analyzing interacting changes to daily activities during Pacific Northwest summers. [https://doi.org/10.31235/osf.io/mn58e](https://doi.org/10.31235/osf.io/mn58e){:target="_blank"} (submitted)
 
