@@ -7,9 +7,9 @@ permalink: /Publications/
 ## Articles
 
 **Yücel, S. G.**, & Schwanen, T. (2025). Heatwave adaptation conditioned by everyday life: Analysing interacting changes to daily activities during Pacific Northwest summers. Global Environmental Change, 94, 103026. [https://doi.org/10.1016/j.gloenvcha.2025.103026](https://doi.org/10.1016/j.gloenvcha.2025.103026){:target="_blank"}
+* Featured as Nature Climate Change Research Highlight: Cheng, D. Activity changes during heatwaves. Nat. Clim. Chang. 15, 916 (2025). [https://doi.org/10.1038/s41558-025-02431-w](https://doi.org/10.1038/s41558-025-02431-w){:target="_blank"}
 
-
-**Yücel, S. G.** (2025). The joint impact of summer heatwave intensity and heat-vulnerability factors on adaptive responses: A case study using England's National Travel Survey. [https://doi.org/10.31235/osf.io/4ywbx_v1](https://doi.org/10.31235/osf.io/4ywbx_v1){:target="_blank"} (under review)
+**Yücel, S. G.** (2025). Heatwaves And Travel Behaviour Adaptation In Temperate Climate Conditions. [https://doi.org/10.31235/osf.io/4ywbx_v2](https://doi.org/10.31235/osf.io/4ywbx_v2){:target="_blank"} (under review)
 
 
 **Yücel, S. G.**, Liang, Y., Wang, D. & Schwanen, T. (2025). Everyday adaptation to summer heatwaves: A global perspective. [https://doi.org/10.31235/osf.io/97kxh](https://doi.org/10.31235/osf.io/97kxh){:target="_blank"} (under review)
