@@ -6,6 +6,8 @@ permalink: /Publications/
 ---
 ## Articles
 
+**Yücel, S. G.**, Liang, Y., Wang, D. & Schwanen, T. (2026). Adapting everyday activities to summer heatwaves: a multi-country analysis of mobile phone location data. Environmental Research: Climate. [https://doi.org/10.1088/2752-5295/ae4cc2](https://doi.org/10.1088/2752-5295/ae4cc2){:target="_blank"} (Accepted)
+
 **Yücel, S. G.**, & Schwanen, T. (2025). Heatwave adaptation conditioned by everyday life: Analysing interacting changes to daily activities during Pacific Northwest summers. Global Environmental Change, 94, 103026. [https://doi.org/10.1016/j.gloenvcha.2025.103026](https://doi.org/10.1016/j.gloenvcha.2025.103026){:target="_blank"}
 * Featured as Nature Climate Change Research Highlight: Cheng, D. Activity changes during heatwaves. Nat. Clim. Chang. 15, 916 (2025). [https://doi.org/10.1038/s41558-025-02431-w](https://doi.org/10.1038/s41558-025-02431-w){:target="_blank"}
 
@@ -17,7 +19,6 @@ permalink: /Publications/
 
 **Yücel, S. G.** (2025). Heatwaves And Travel Behaviour Adaptation In Temperate Climate Conditions. [https://doi.org/10.31235/osf.io/4ywbx_v2](https://doi.org/10.31235/osf.io/4ywbx_v2){:target="_blank"} (under review)
 
-**Yücel, S. G.**, Liang, Y., Wang, D. & Schwanen, T. (2025). Everyday adaptation to summer heatwaves: A global perspective. [https://doi.org/10.31235/osf.io/97kxh](https://doi.org/10.31235/osf.io/97kxh){:target="_blank"} (under review)
 
 
 
