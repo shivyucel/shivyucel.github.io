@@ -5,9 +5,9 @@ permalink: /Publications/
 
 ---
 ## Articles
-**Yücel, S. G.** & Schwanen, T. (2027). Summer heatwave travel behaviour adaptations vary across purposes, modes, space, and time. <i>Transportation Research Part D: Transport and Environment, 162, 105677. </i> [https://doi.org/10.1016/j.trd.2026.105677](https://doi.org/10.1016/j.trd.2026.105677){:target="_blank"} 
+**Yücel, S. G.** & Schwanen, T. (2027). Summer heatwave travel behaviour adaptations vary across purposes, modes, space, and time. <i>Transportation Research Part D: Transport and Environment</i>. 162, 105677.  [https://doi.org/10.1016/j.trd.2026.105677](https://doi.org/10.1016/j.trd.2026.105677){:target="_blank"} 
 
-**Yücel, S. G.** (2026). Summer heatwaves and travel behaviour adaptation in temperate climate conditions. <i>Applied Geography, 193, 104085. </i> [https://doi.org/10.1016/j.apgeog.2026.104085](https://doi.org/10.1016/j.apgeog.2026.104085){:target="_blank"} 
+**Yücel, S. G.** (2026). Summer heatwaves and travel behaviour adaptation in temperate climate conditions. <i>Applied Geography</i>. 193, 104085.[https://doi.org/10.1016/j.apgeog.2026.104085](https://doi.org/10.1016/j.apgeog.2026.104085){:target="_blank"} 
 
 **Yücel, S. G.**, Liang, Y., Wang, D. & Schwanen, T. (2026). Adapting everyday activities to summer heatwaves: a multi-country analysis of mobile phone location data. <i>Environmental Research: Climate</i>. 5, 025007 [https://doi.org/10.1088/2752-5295/ae4cc2](https://doi.org/10.1088/2752-5295/ae4cc2){:target="_blank"}
 * Featured as Nature Climate Change Research Highlight: Cheng, D. Activity changes during heatwaves. <i>.Nat. Clim. Chang.</i> 15, 916 (2025). [https://doi.org/10.1038/s41558-025-02431-w](https://doi.org/10.1038/s41558-025-02431-w){:target="_blank"}
