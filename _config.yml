@@ -23,7 +23,7 @@ email: yucelshiv@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  
 
-google_analytics: UA-216010967-1
+# google_analytics: UA-216010967-1  # paused
 
 
 #baseurl: "" # the subpath of your site, e.g. /blog
