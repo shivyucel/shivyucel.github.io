@@ -33,7 +33,9 @@ layout: default
           {{ post.excerpt }}
 
         {%- endif -%}
+        {%- if post.image -%}
         <img src="{{ post.image }}" alt="Project Image" class="project-image">
+        {%- endif -%}
 
       </li>
       {%- endif -%}
